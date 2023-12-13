@@ -36,8 +36,8 @@ while i <= 50:
 
 my_dictionary = {
     5: 25
-   ,2: 4
-   ,3: 9
+  , 2: 4
+  , 3: 9
 }
 print(my_dictionary[3])
 
